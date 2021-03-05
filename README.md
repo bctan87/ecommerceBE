@@ -27,6 +27,14 @@ mysyql> quit;
 
 npm run seed
 
+### Modify .env file
+
+DB_NAME='ecommerce_db'
+
+DB_USER='' <- Enter MySQL username
+
+DB_PW='' <- Enter MySQL password
+
 ## Links
 
 Video: https://drive.google.com/file/d/1O5tijHFZ-nqunnbxmIMxOe8UgU15Nu-8/view

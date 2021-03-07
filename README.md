@@ -41,7 +41,7 @@ Video: https://drive.google.com/file/d/1O5tijHFZ-nqunnbxmIMxOe8UgU15Nu-8/view
 
 Demo: https://drive.google.com/file/d/1D7vM9B3wxvJ5hAYLv52Dqm4B93alejY3/view
 
-Demo2 (with mysql and run seed): https://drive.google.com/file/d/198MNAysh6yU6tw_dBkGg-v0CTDCLR_5_/view
+Demo2 (with mysql, npm run seed, and npm start): https://drive.google.com/file/d/198MNAysh6yU6tw_dBkGg-v0CTDCLR_5_/view
 
 Link to Repo: https://github.com/bctan87/ecommerceBE
 

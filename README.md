@@ -1,7 +1,7 @@
 # ecommerceBE
 
 ## Description
-The goal of this project is to build the back end for an e-commerce site. I took take a working Express.js API and configured it to use Sequelize to interact with a MySQL database.
+The goal of this project is to build the back end for an e-commerce site. I took a working Express.js API and configured it to use Sequelize to interact with a MySQL database.
 
 ## Installation
 
